@@ -8,4 +8,4 @@ I am Jiamin Zhu, born and raised in Shanghai. Since May 2018, I became a PhD Stu
 
 Living in Zurich Swizerland, it's almost a crime not to explore the fabulous nature. There are endless possibilities in hiking, cycling, stand-up paddling and skiing here and I try to spend at least one full day per week in the nature doing these activities. Apart from these, Via Ferrata, Paragliding and Snow Camping might be something I want to learn in the near future.
 
-Learning Languange is another passion. I hope my German will improve throughout the Phd life so that I can eventually teach in German. I should pick up my Spanish and Cantonese and use them more.
+Learning Languange is another passion for me. I hope my German skill will improve throughout the PhD life so that I can eventually teach in German. I should also pick up my broken Spanish and Cantonese and use them more.
