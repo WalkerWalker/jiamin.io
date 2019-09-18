@@ -4,22 +4,8 @@ title: About
 order: 4
 ---
 
-I am Chris Schuld and I live in Chandler, Arizona.  When I was ten years old I was shown [BASIC](https://en.wikipedia.org/wiki/BASIC) and [QBASIC](https://en.wikipedia.org/wiki/QBasic) by my fifth grade teacher and I fell in love with the idea I could control a computer.  I spent a lot of my time in front of the computer attempting to mimic software I saw in magazines and wishing I could [afford a hard drive](https://www.pcworld.com/article/127105/article.html) in the 80s.  Fast forward... earned a Bachelor of Engineering degree in Computer Systems Engineering from [Arizona State University](https://engineering.asu.edu/). I spent a few years at [Intel Corporation](https://intel.com/) before leaving to start my own ventures.
+I am Jiamin Zhu, born and raised in Shanghai. Since May 2018, I became a PhD Student at [ETH Zurich](https://ethz.ch), in the field of cryptography. I am fortunate to have [Prof. Ueli Maurer](https://www.crypto.ethz.ch/~maurer/) as my supervisor. Most of my projects are related with either abstract model of computation or quantum cryptography. 
 
-My passion resides in software architecture, rapid development approaches, serverless delivery, software design fundamentals and SaaS business strategy. I actively maintain several profitable production products in React JS, TypeScript, PHP, Node, C#, Python, Perl and Javascript.  You can [read more about my open source projects](/projects) as well.
+Living in Zurich Swizerland, it's almost a crime not to explore the fabulous nature. There are endless possibilities in hiking, cycling, stand-up paddling and skiing here and I try to spend at least one full day per week in the nature doing these activities. Apart from these, Via Ferrata, Paragliding and Snow Camping might be something I want to learn in the near future.
 
-### About this site
-
-This site was created and is maintained with Jekyll.  I chose Jekyll specifically to decrease the amount of time I spend going from idea to publish.  In the past I was not able to keep up with the authoring of posts (the site was essentially dead for years) because it was not fluid to author content.  I enjoy [Markdown](https://en.wikipedia.org/wiki/Markdown) and find it easy to author content in Markdown.  Thus, Jekyll provides me a rapid platform to blog with.
-
-For those curious here is how I produce the site:
-+ Uses Jekyll 3.7
-+ Hosted by GitHub via GitHub Pages
-+ Encrypted using Let's Encrypt
-+ Authored using Markdown on Visual Studio Code
-+ Locally edited using Docker
-
-I [collected notes regarding my process](/2019/02/building-your-own-website-in-jekyll/) to produce this site.  You can easily reproduce it yourself and start publishing right away.
-
-### Special Thanks
-Special thanks to [Mark Otto @mdo](https://twitter.com/mdo) for the theme work for Jekyll - it saved me a lot of time standing up the site.
+Learning Languange is another passion. I hope my German will improve throughout the Phd life so that I can eventually teach in German. I should pick up my Spanish and Cantonese and use them more.
