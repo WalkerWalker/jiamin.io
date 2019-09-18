@@ -2,7 +2,7 @@
 title: Yet Another Blog From Me
 layout: post
 description: First article in the new blog
-tags: tech, random-thoughts
+tags: tech random-thoughts
 ---
 
 Damn, the ip of my aws-ec2 server is blocked by GFW again. This time it only took 3 month. The feature detection algorithm from GFW is clearly getting better. Elastic ip is just a joke in China. Who needs that? Instead I finally decide to get my own domain --- jiamin.io. I like it.
