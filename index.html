@@ -3,27 +3,6 @@ layout: default
 title: Home
 ---
 
-<h2 id="projects-ref">Open Source Projects</h2>
-<table class="projects">
-  {% for project in site.data.projects %}
-  <tr>
-    <td>
-        <a href="{{ project.url }}">{{ project.name }}</a>
-    </td>
-    <td>
-        {{ project.description }}
-        <br/>
-        {% if project.github != '' %}
-        <a class="openSourceLink" href="{{ project.github }}"><i class="fab fa-github"></i> Github</a>
-        {% endif %}
-        {% if project.packagist %}
-        <a class="openSourceLink" href="{{ project.packagist }}"><i class="fas fa-elephant"></i> Packagist</a>
-        {% endif %}
-    </td>
-  </tr>
-  {% endfor %}
-</table>
-
 <h2>Articles &amp; Blog Content</h2>
 
 {% for post in site.posts  %}
