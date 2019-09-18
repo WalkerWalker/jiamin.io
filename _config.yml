@@ -5,23 +5,23 @@ highlighter:      rouge
 permalink:        /:categories/:year/:month/:title/
 
 # Setup
-title:            Chris Schuld
+title:            Jiamin Zhu
 tagline:          My Notebook
-description:      Forever nerd and SaaS entrepreneur.  Intrigued by software engineering, software as a business and aviation.
-url:              https://chrisschuld.com
+description:      Research. Outdoor. Language.
+url:              https://jiamin.io
 baseurl:          /
 author:
-  name:           Chris Schuld
-  url:            https://chrisschuld.com
+  name:           Jiamin Zhu
+  url:            https://jiamin.io
 paginate:         4
-repository:       cbschuld/chrisschuld.com
+repository:       walkerwalker/jiamin.io
 github:
-  repo:           https://github.com/cbschuld/chrisschuld.com
+  repo:           https://github.com/walkerwalker/jiamin.io
 
 # Plugins, Tags, Categories and Analytics  
-plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+# plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
-tags:
+# tags:
 
-google_analytics:
-  tracking_id:    UA-2228390-1
+# google_analytics:
+#  tracking_id:    UA-2228390-1
