@@ -1,6 +1,6 @@
-# Chris Schuld's Blog
+# Jiamin Zhu's Blog
 
-Based on Mark Otto's Hyde Jekyll Template
+Based on Mark Otto's Hyde Jekyll Template and forked from Chris Schuld's Blog repo
 
 ## Local Development - Building
     export JEKYLL_VERSION=3.7
@@ -12,8 +12,8 @@ Based on Mark Otto's Hyde Jekyll Template
 
 ## Author
 
-**Chris Schuld**
-- <https://github.com/cbschuld>
+**Jiamin Zhu**
+- <https://github.com/walkerwalker>
 - <https://twitter.com/cbschuld>
 
 
