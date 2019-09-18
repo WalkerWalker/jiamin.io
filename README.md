@@ -10,13 +10,6 @@ Based on Mark Otto's Hyde Jekyll Template and forked from Chris Schuld's Blog re
     export JEKYLL_VERSION=3.7
     docker run --name jiamin.io --env=DEBUG=true --rm --volume="/private/var/www/jiamin.io/:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch --drafts
 
-## Author
-
-**Jiamin Zhu**
-- <https://github.com/walkerwalker>
-- <https://twitter.com/cbschuld>
-
-
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
