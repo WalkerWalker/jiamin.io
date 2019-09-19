@@ -1,6 +1,7 @@
 ---
 title: From Owning Domain To Hosting Website
-layout: page
+layout: post
+description: domain and github pages, the perfect match
 tags: tech
 ---
 
