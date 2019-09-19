@@ -16,11 +16,11 @@ apple-icon-144x144.png			apple-icon-152x152.png
 apple-icon-180x180.png			apple-icon-57x57.png
 apple-icon-60x60.png			apple-icon-72x72.png
 apple-icon-76x76.png			apple-icon-precomposed.png
-apple-icon.png					favicon.ico
-favicon-16x16.png				favicon-256x256.png
-favicon-32x32.png				favicon-96x96.png
-ms-icon-144x144.png				ms-icon-150x150.png
-ms-icon-310x310.png				ms-icon-70x70.png
+apple-icon.png				favicon.ico
+favicon-16x16.png			favicon-256x256.png
+favicon-32x32.png			favicon-96x96.png
+ms-icon-144x144.png			ms-icon-150x150.png
+ms-icon-310x310.png			ms-icon-70x70.png
 ```
 Well, I don't really care how they are used in different devices. Some code  in the repo probably has already taken care of that. I just need to 
 
