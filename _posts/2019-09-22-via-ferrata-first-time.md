@@ -38,7 +38,7 @@ I got a bit better after a while.
  
 New challenge is yet to come -- crossing the bridge made by three ropes! I was dead serious. Looking nowhere but ahead. Resting my entire arms on the rope. Focusing. Shaking. Focusing. Shaking. Walking as slow as I can. Smile? no thank you. 
 
-![](/public/images/viaferrata/better.jpg)
+![](/public/images/viaferrata/serious.jpg)
 
 Yiyun, on the other side, was like dancing on the slack line because she has three instead of one rope.
 
