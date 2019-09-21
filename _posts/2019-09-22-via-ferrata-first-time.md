@@ -14,7 +14,7 @@ At [intersport Mürren](http://staegersport.ch/muerren/), we rent the equipments
 
 After the group photos, we head to the starting point and getting serious on the rules. Essentially the only rule is
  
-**Never Disconncet Both Carabiners. **
+**Never Disconncet Both Carabiners.**
 
 Of course this rule is so important that we heard it several times in different words --- Release and secure the carabiners one by one. Use only one hand on carabiners. This rule No.1, No.2 and No.3.  
 
