@@ -17,7 +17,7 @@ paginate:         4
 repository:       walkerwalker/jiamin.io
 github:
   repo:           https://github.com/walkerwalker/jiamin.io
-
+  markdown:	  CommonMarkGhPages
 # Plugins, Tags, Categories and Analytics  
 # plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
