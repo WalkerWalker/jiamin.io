@@ -29,9 +29,17 @@ You felt that you have finally beat the casino, played a few more rounds and lef
 
 So what are the real odds?
 
-<details><summary>CLICK TO EXPAND</summary>
-<p>
-Let's list all the result one by one. Note here we do not consider the sequence --- first and second, because win or lose does not depend on the sequence. 
+#PAUSE
+#THINK BEFORE SCROLLING DOWN
+#.
+#.
+#.
+#.
+#.
+#.
+
+
+Let's list all the result one by one. Note here we do not consider the sequence, because win or lose does not depend on the sequence. 
 
 -  <span style="color:red">♥A</span> <span style="color:red">♦A</span>
 -  <span style="color:red">♥A</span> ♠A
@@ -40,18 +48,18 @@ Let's list all the result one by one. Note here we do not consider the sequence 
 -  <span style="color:red">♦A</span> ♣A
 -  ♠A ♣A
 
-Clearly from the color we see that there are 2 winning scenario out of 6, so we only win one third of the time. **What gives?** Can one come up with more scenarios? Is this the right way to calculate the odds?
+Clearly from the color we see that there are 2 winning scenarios out of 6, so we only win one third of the time. **What gives?** Can one come up with more scenarios? Is this the right way to calculate the odds?
 
 The truth is all three reasonings are logically not sound. 2 out of 3, 4 or 6 scenarios are fractions of the winning scenarios but **winning probability is generally not same as the fraction of the winning scenarious**, which is essentially the assumption of the following three statements.
 
-- 1. You win 2 out of 3 scenarios, so you win two third of the time.<br>
-- 2. You win 2 out of 4 scenarios, so you win half of the time.<br>
-- 3. There are 2 winning scenario out of 6, so we only win one third of the time.
+1. You win 2 out of 3 scenarios, so you win two third of the time.<br>
+2. You win 2 out of 4 scenarios, so you win half of the time.<br>
+3. There are 2 winning scenario out of 6, so we only win one third of the time.
 
 To illustrate it a bit more clear. Let's give two more examples.
 
-- 4. Consider a coin. *Getting head* or *not head* are two scenarios. So the probability of *getting head* is 1/2. <br>
-- 5. Consider a dice. *Getting 1* or *not getting 1* are two scenarios. So the probability of *getting 1* is 1/2. 
+4. Consider a coin. *Getting head* or *not head* are two scenarios. So the probability of *getting head* is 1/2. <br>
+5. Consider a dice. *Getting 1* or *not getting 1* are two scenarios. So the probability of *getting 1* is 1/2. 
 
 This is ridiculous. We all know robability of *getting 1* should be 1/6. But it's not so obvious that in the coin example, the logic, being exactly same as in the dice example, is also not sound. Let's explicitly state again the assumption, which is generally not true, of all above five statements.
 
@@ -67,9 +75,6 @@ Now it's clear that listing all the scenarios is not enough. We also need to mak
 ![](/public/images/count/count.png)
 
 Do you agree?
-</p>
-</details>
-
 
 
 
