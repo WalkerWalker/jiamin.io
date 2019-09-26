@@ -7,8 +7,8 @@ tags: math probability
 
 You are jogging in the park when a lady, Mrs Smith, walks to you with two babies in double stroller.
 
-- "How cute! Are they twins?" You asked. 
-- "Yes they are, but fraternal twins". Mrs Smith answered with a smile.
+- "How cute! Are they twins?" You ask. 
+- "Yes they are, but fraternal twins". Mrs Smith answers with a smile.
 - "Are they both boy?"
 - "No, guess again".
 
