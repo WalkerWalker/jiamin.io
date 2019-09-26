@@ -1,7 +1,7 @@
 ---
-title: Too Many Favicons
+title: Same answer to two questions, or are they?
 layout: post
-description: where to get favicons in 20 different size?
+description: Questions matter
 tags: math probability
 ---
 
