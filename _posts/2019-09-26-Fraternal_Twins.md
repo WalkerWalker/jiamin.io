@@ -7,7 +7,7 @@ tags: math probability
 
 You are jogging in the park when a lady, Mrs Smith, walked to you with a stroller covering two babies. 
 
-- "How cute! are they twins?" You asked. 
+- "How cute! Are they twins?" You asked. 
 - "Yes they are, but fraternal twins". Mrs Smith answered with a smile.
 - "Are they both boy?"
 - "No, guess again".
@@ -19,7 +19,7 @@ What's the probability that two babies are both girl?
 Let's rewind the conversation and change the last question a bit.
 
 - "~~Are they both boy?~~ Can you tell me the gender of one baby and let me guess the other?"
-- "~~o, guess again~~ Sure. One of them is a girl.".
+- "~~No, guess again~~ Sure. One of them is a girl.".
 
 Again, what's the probability that two babies are both girl?
 
