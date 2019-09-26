@@ -5,7 +5,7 @@ description: Questions matter
 tags: math probability
 ---
 
-You are jogging in the park when a lady, Mrs Smith, walked to you with a stroller covering two babies. 
+You are jogging in the park when a lady, Mrs Smith, walks to you with two babies in double stroller.
 
 - "How cute! Are they twins?" You asked. 
 - "Yes they are, but fraternal twins". Mrs Smith answered with a smile.
