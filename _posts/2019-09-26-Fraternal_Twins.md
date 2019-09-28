@@ -52,7 +52,7 @@ For the first question, it's suffice to list out four cases with same likelihood
 
 Note that here we have a hidden assumption that the gender of fraternal twins are two independent and identical events, namely each baby is equally likely to be boy or girl. Our probability bases on this reasonable assumption. 
 
-The answer from the lady rules out the first case.  We don't anything more about the remaining cases -- they are still equally likely. Therefore both are girls, corresponding to the last case has probability 1/3. 
+The answer from the lady rules out the first case.  We don't know anything more about the remaining cases -- they are still equally likely. Therefore both being girls, corresponding to the last case, has probability 1/3. 
 
 For the second question, the lady is asked to chose one of the babies and reveal the gender of that baby. If we take this choice into consideration, then there are eight cases with same likelihood.
  
@@ -67,8 +67,8 @@ For the second question, the lady is asked to chose one of the babies and reveal
 | girl  | girl  | Left|
 | girl  | girl  | Right |
 
-Again it's important to list out all the hidden assumptions because our probability bases on these assumptions. In addition to the assumption above, we also need to assume that the lady will choice with equal likelihood one the children to reveal the gender.
+Again it's important to list out all the hidden assumptions because our probability bases on these assumptions. In addition to the assumption above, we also need to assume that the lady will choice with equal likelihood on of the children to reveal the gender.
 
-Now we analysis the ladies answer and check the remaining cases. In case 1,2,3 and 6, the lady would say "one of them is a boy". Therefore these four cases are ruled out.  We don't anything more about the remaining cases -- they are still equally likely. Therefore both babies are girls, corresponding to cases 7 and 8 among four remaining cases, has probability 1/2. 
+Now we analysis the ladies answer and check the remaining cases. In case 1,2,3 and 6, the lady would say "one of them is a boy". Therefore these four cases are ruled out.  We don't know anything more about the remaining cases -- they are still equally likely. Therefore both babies being girls, corresponding to cases 7 and 8 among four remaining cases, has probability 1/2. 
 
-So even if the answers are the same. Same answer to different questions actually leads to different information. 
+So we now should understand that even if the answers are the same, same answer to different questions actually lead to different information. 
